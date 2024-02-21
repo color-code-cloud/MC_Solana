@@ -1,0 +1,22 @@
+$ npm fund
+nodejs@1.0.0
+├─┬ https://opencollective.com/node-fetch
+│ │ └── node-fetch@3.3.1
+│ └── https://github.com/sponsors/jimmywarting
+│     └── fetch-blob@3.2.0, node-domexception@1.0.0
+├── https://paulmillr.com/funding/
+│   └── @noble/curves@1.1.0, @noble/hashes@1.3.1
+├── https://github.com/sponsors/feross
+│   └── buffer@6.0.3, base64-js@1.5.1, ieee754@1.2.1, safe-buffer@5.2.1
+├── https://paypal.me/kozjak
+│   └── rpc-websockets@7.5.1
+└── https://github.com/sponsors/sindresorhus
+    └── delay@5.0.0
+
+gitpod /workspace/Keypairs-Airdrops-Challenge (main) $ node index.js
+Public Key:  HaAkHRJm5df5kD3yekTqk9zFbDTnhZcR5hAjFh4ZgrWo
+Wallet balance: 0 SOL
+Airdropping some SOL to the wallet!
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Wallet balance: 2 SOL
